@@ -2,7 +2,7 @@
 
 ## Introduction
 
-> The todo application uses Rest API build using Django Rest Framework and ReactJS for frontend. Check out the website https://boring-jepsen-24a3d2.netlify.app/
+> The todo application uses Rest API build using Django Rest Framework and ReactJS for frontend. Check out the website https://geetansh2k1-todo-app.netlify.app
 
 ## Preview
 
